@@ -1,3 +1,5 @@
+<p>pnpm i , pnpm run build </p>
+
 <p align="center">
   <img width="100px" src="./docs/public/logo.png">
 </p>

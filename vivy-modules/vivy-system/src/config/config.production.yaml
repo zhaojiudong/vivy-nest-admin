@@ -4,17 +4,16 @@ redis:
     port: 6379
     host: localhost
     username: default
-    password: Aa@123456
     db: 0
 
 # Mysql 配置
 datasource:
   defalut:
     type: mysql
-    port: 3306
+    port: 3302
     host: localhost
     username: root
-    password: Aa@123456
+    password: '123456'
     database: vivy-nest-admin
     synchronize: false
     autoLoadEntities: true
